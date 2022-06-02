@@ -1,6 +1,6 @@
 /*
  * File:   22S1_ELEC3042_SPI.c
- * Author: rex
+ * Author: Ashwin
  *
  * Created on 5 March 2021, 7:57 PM
  * 
